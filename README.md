@@ -5,4 +5,4 @@ Questa è un'altra linea.
 
 Questa è una terza linea.
 
-Questa è una quarta riga.
+Questa è una quarta riga modificata da ambra
